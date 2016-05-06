@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Formulario de Contactos</string>
+
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_calendario">Fecha de Nacimiento</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción</string>
+
+    <string name="err_msg_nombre">Escribe tu nombre completo</string>
+    <string name="err_msg_telefono">Escribe correctamente tu teléfono</string>
+    <string name="err_msg_email">Escribe correctamente la dirección</string>
+    <string name="err_msg_descripción">Escribe correctamente la descripción</string>
+
+    <string name="titulo">Confirmar Datos</string>
+    <string name="nombre">Francisco Salgado</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento: 04/09/1978</string>
+    <string name="telefono">Tel. 5527598213</string>
+    <string name="email">Email: jfsr78@gmail.com</string>
+    <string name="descripcion">Descripción: Soy yo.</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pfecha_nacimiento">nacimiento</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+
+</resources>
